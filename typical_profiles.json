@@ -1,0 +1,26 @@
+{
+    "group1":{
+        "average_score":36.26369402985072,
+        "average_emails_sent":119052.1616915423,
+        "average_open_rate":16.099054726368156,
+        "average_unsubscribe_rate":0.02934079601990049,
+        "average_bounce_rate":1.9795771144278598,
+        "average_complaint_rate":0.00460199004975122
+    },
+    "group2":{
+        "average_score":38.43468416498409,
+        "average_emails_sent":27631.058552062303,
+        "average_open_rate":17.031344101528664,
+        "average_unsubscribe_rate":0.028344389962503606,
+        "average_bounce_rate":2.128782809345251,
+        "average_complaint_rate":0.007349293337179209
+    },
+    "group3":{
+        "average_score":59.66484883213325,
+        "average_emails_sent":2613.362639161755,
+        "average_open_rate":26.910467692643497,
+        "average_unsubscribe_rate":0.027799061340318842,
+        "average_bounce_rate":2.859371316306466,
+        "average_complaint_rate":0.010443407552936115
+    }
+}
