@@ -108,4 +108,3 @@ This project was developed using XAMPP for Apache and MySQL. XAMPP provides an e
 
 ---
 
-Please review this updated README and let me know if any adjustments are needed.
